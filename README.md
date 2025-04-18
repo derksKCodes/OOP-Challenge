@@ -36,6 +36,9 @@ Create a class called `Pet` with the following:
 4. Submit a GitHub repo or a zipped folder with your code and a screenshot of the output.
 
 ---
+### 🧑‍💻 Output
+
+![Output](output_image/Screenshot%202025-04-18%20222001.png)
 
 ## ✅ Sample Output
 
